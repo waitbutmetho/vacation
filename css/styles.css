@@ -1,6 +1,29 @@
-/* Layout */
+/* Styles */
 
 body {
   padding-top: 70px;
-  background-color: tan;
+  background: grey;
+  font-family: tahoma;
+}
+
+/*.threep{
+
+}*/
+
+.navbar {
+  background-image: url("http://www.carbonfibergear.com/wp-content/uploads/2010/01/2-carbon-fiber-twill-weave-iphone-background.jpg");
+}
+
+.img-responsive{
+  margin-top: 15px;
+  border: solid 8px #4d4d4d;
+  border-radius: 10px;
+}
+
+.icon-bar{
+  background: grey;
+}
+
+ul li a {
+  color: grey;
 }
